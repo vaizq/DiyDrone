@@ -1,7 +1,8 @@
 # DiyDrone
 Completely homemade drone from cheap ebay parts.
 <h2>Current state of the project</h2>
-<img src=
+<img src="StateOfProject.jpg"></img>
+<p></p>
 <p>
 Idea is to make drone from general parts, as cheaply as possible.
 I will be using atmel168 as brains, for both drone and for controller.
